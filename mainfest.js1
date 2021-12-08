@@ -1,0 +1,23 @@
+ {
+    "name": "TechYuth",
+    "short_name": "TechYuth",
+    "icons": [
+        {
+            "src": "https://blogger.googleusercontent.com/img/a/AVvXsEgGJrQL5oSejW9EXmnfVA-Eus62j87swtPwtV-NJ3j3JmmEql2m1GiFf58mi4qJUbQTJhHZqFh2yNaKeAS4aPvWnh90PQIJsqQsXT9Paawua1Tgl1Bp89Qlov-qw_8GNCNNMlpBegmMdR8ezNRX63y8Vcc58QtnuuxyUU24RIvYJIOkhNXt74NP8ySVsw",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "https://blogger.googleusercontent.com/img/a/AVvXsEgGJrQL5oSejW9EXmnfVA-Eus62j87swtPwtV-NJ3j3JmmEql2m1GiFf58mi4qJUbQTJhHZqFh2yNaKeAS4aPvWnh90PQIJsqQsXT9Paawua1Tgl1Bp89Qlov-qw_8GNCNNMlpBegmMdR8ezNRX63y8Vcc58QtnuuxyUU24RIvYJIOkhNXt74NP8ySVsw",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "prefer_related_applications": false,
+  "start_url": "https://www.techyuth.com"
+}
